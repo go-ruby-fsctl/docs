@@ -1,0 +1,9 @@
+<svg viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="go-ruby-fsctl">
+  <defs><linearGradient id="gocyan" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22CCE2"/><stop offset="1" stop-color="#0079A8"/></linearGradient></defs>
+  <rect width="256" height="256" rx="56" fill="url(#gocyan)"/>
+  <g fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="112" cy="86" rx="44" ry="17"/><path d="M68 86v52c0 9 20 17 44 17"/><path d="M156 86v34"/></g>
+  <g fill="none" stroke="#FFFFFF" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="152" cy="150" r="13"/><path d="M152 126v-9M152 174v9M128 150h-9M176 150h9M135 133l-7-7M169 174l7 7M135 167l-7 7M169 126l7-7"/></g>
+  <g transform="translate(150,150)"><path d="M0 22L-22 -4L-13 -14H13L22 -4Z" fill="#E8384F" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round"/></g>
+</svg>
